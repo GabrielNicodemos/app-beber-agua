@@ -10,7 +10,7 @@ Projeto simples desenvolvido em Kotlin no Android Studio que calcula a quantidad
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 
 ## Imagens
- <img src="https://github.com/GabrielNicodemos/app-beber-agua/blob/main/img/tela1.png" width="300" height="500">
+ <img src="https://github.com/GabrielNicodemos/app-beber-agua/blob/main/img/tela1.png" width="300" height="600">
 
 
 ## Principais conceitos abordados no projeto
