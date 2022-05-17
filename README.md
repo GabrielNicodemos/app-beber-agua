@@ -10,7 +10,7 @@ Projeto simples desenvolvido em Kotlin no Android Studio que calcula a quantidad
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 
 ## Imagens
-![alt text](img/Captura de tela de 2022-05-17 11-52-18)
+![alt text](img/Captura de tela de 2022-05-17 11-52-18.png)
 
 
 
