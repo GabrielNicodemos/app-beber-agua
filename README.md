@@ -11,7 +11,8 @@ Projeto simples desenvolvido em Kotlin no Android Studio que calcula a quantidad
 
 ## Imagens
  <img src="https://github.com/GabrielNicodemos/app-beber-agua/blob/main/img/tela1.png" width="300" height="600">
-
+ <img src="https://github.com/GabrielNicodemos/app-beber-agua/blob/main/img/tela2.png" width="300" height="600">
+  <img src="https://github.com/GabrielNicodemos/app-beber-agua/blob/main/img/tela3.png" width="300" height="600">
 
 ## Principais conceitos abordados no projeto
  - Responsive Layout
